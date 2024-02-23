@@ -1,3 +1,5 @@
+'use strict';
+
 const monsterHealthBar = document.querySelector('#monster-health');
 const playerHealthBar = document.querySelector('#player-health');
 const bonusLifeEl = document.querySelector('#bonus-life');
